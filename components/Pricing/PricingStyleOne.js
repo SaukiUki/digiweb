@@ -21,7 +21,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 399.000
+                                            <sup>Rp</sup> 599.000
                                         </span>
                                     </div>
                                     
@@ -53,7 +53,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 599.000
+                                            <sup>Rp</sup> 1.299.000
                                         </span>
                                     </div>
                                     
@@ -86,7 +86,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 1.249.000
+                                            <sup>Rp</sup> 1.999.000
                                         </span>
                                     </div>
                                     
@@ -127,7 +127,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 699.000
+                                            <sup>Rp</sup> 1.299.000
                                         </span>
                                     </div>
                                     
@@ -159,7 +159,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 1.149.000
+                                            <sup>Rp</sup> 1.999.000
                                         </span>
                                     </div>
                                     
@@ -200,7 +200,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 399.000
+                                            <sup>Rp</sup> 699.000
                                         </span>
                                     </div>
                                     
@@ -232,7 +232,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 599.000
+                                            <sup>Rp</sup> 1.199.000
                                         </span>
                                     </div>
                                     
@@ -265,7 +265,7 @@ class PricingStyleOne extends Component {
                                     
                                     <div className="price">
                                         <span>
-                                            <sup>Rp</sup> 1.249.000
+                                            <sup>Rp</sup> 1.999.000
                                         </span>
                                     </div>
                                     
